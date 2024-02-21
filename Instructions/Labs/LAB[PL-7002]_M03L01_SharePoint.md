@@ -27,7 +27,9 @@ lab:
 
 ### タスク 1.1 SharePoint サイトを作成する
 
-1. [Power Apps Maker ポータル](https://make.powerapps.com)で、ブラウザー ウィンドウの左上にある**アプリ起動ツール**を選び、**[OneDrive]** を選びます。
+1. [Power Apps Maker ポータル](https://make.powerapps.com)で、ブラウザー ウィンドウの左上にある**アプリ起動ツール**を選び、**[SharePoint]** を選びます。
+
+1. **[SharePoint へようこそ] スタート ページ**のポップアップ ダイアログが表示されたら、**[X]** を選んでダイアログを閉じます。
 
 1. SharePoint で、**[+ サイトの作成]** を選びます。
 
@@ -38,6 +40,8 @@ lab:
 1. **サイトの作成**を選択します。
 
 1. **[完了]** を選びます。
+
+1. **[Start designing your site] (サイトの設計を開始する)** ポップアップ ダイアログが表示されたら、ダイアログを閉じます。
 
 ### タスク 1.2 SharePoint リストを作成する
 
