@@ -29,7 +29,7 @@ lab:
 
 ### タスク 1.1 - Opportunity テーブルを作成する
 
-1. Power Apps Maker ポータル <https://make.powerapps.com> に移動します。
+1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
 1. **Dev One** 環境にいることを確認します。
 
@@ -39,13 +39,14 @@ lab:
 
     ![新しい Dataverse テーブルの作成のスクリーンショット。](../media/create-new-table-dataverse.png)
 
-1. [新しいテーブル] の横にある**鉛筆**アイコンを選びます
+1. **テーブル プロパティの編集** を選択します。
 
     ![新しいテーブル名のスクリーンショット。](../media/table-name.png)
 
 1. **[表示名]** に `Opportunity` を入力します。
 
 1. **[保存]** を選択します。
+
 
 ### タスク 1.2 - プライマリ列
 
@@ -58,6 +59,7 @@ lab:
 1. **[更新]** を選択します。
 
 1. **［作成］** を選択します
+
 
 ### タスク 1.3 - 列を追加する
 
@@ -121,12 +123,13 @@ lab:
 
 1. **[保存]** を選択します。
 
+
 ### タスク 1.4 - 選択肢列を追加する
 
 1. **[Opportunity の列とデータ]** ペインで **+** を選び、**[新しい列]** ペインに次の値を入力するか選びます。
 
    1. 表示名: `Status`
-   1. データ型:**選択肢**
+   1. データ型: **Choice** > **Choice**
    1. 必須:**省略可能**
 
 1. **[グローバルな選択肢と同期しますか?]** で **[いいえ]** を選びます
@@ -143,11 +146,12 @@ lab:
 
 1. **[保存]** を選択します。
 
+
 ## 演習 2 - リレーションシップを作成する
 
 ### タスク 2.1 - 検索列を作成する
 
-1. Power Apps Maker ポータル <https://make.powerapps.com> に移動します。
+1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
 1. **Dev One** 環境にいることを確認します。
 
@@ -170,7 +174,7 @@ lab:
 
 ### タスク 3.1 - 営業案件レコードを追加する
 
-1. Power Apps Maker ポータル <https://make.powerapps.com> に移動します。
+1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
 1. **Dev One** 環境にいることを確認します。
 
@@ -186,10 +190,10 @@ lab:
    1. Owner Name: `MOD Administrator`
    1. Customer: `Adventure Works`
    1. Estimated Close Date:**前月の日付を選択する**
-   1. 状態:**終了**
    1. Amount: `10,000`
+   1. 状態:**終了**
 
-1. **[下に行を挿入する]** を選び、次の値を入力するか選びます。
+1. **[下に行を挿入]** を選択し、以下の値を入力するか選択します。
 
    1. Opportunity Subject: `Key customer`
    1. Owner Name: `MOD Administrator`
@@ -198,24 +202,24 @@ lab:
    1. 状態:**[新規作成]**
    1. Amount: `50,000`
 
-1. **[下に行を挿入する]** を選び、次の値を入力するか選びます。
+1. **[下に行を挿入]** を選択し、以下の値を入力するか選択します。
 
    1. Opportunity Subject: `New customer`
    1. Owner Name: `MOD Administrator`
    1. Customer: `Coho Winery`
    1. Estimated Close Date:**次の月の将来の日付を選択する**
-   1. 状態:**[新規作成]**
    1. Amount: `25,000`
+   1. 状態:**[新規作成]**
 
-1. **[下に行を挿入する]** を選び、次の値を入力するか選びます。
+1. **[下に行を挿入]** を選択し、以下の値を入力するか選択します。
 
    1. Opportunity Subject: `Repeat customer`
    1. Owner Name: `MOD Administrator`
    1. Customer: `Fourth Coffee`
    1. Estimated Close Date:**次の月の将来の日付を選択する**
-   1. 状態:**[ファイル]**
    1. Amount: `15,000`
+   1. 状態:**[ファイル]**
 
     ![[データの編集] ペインのスクリーンショット。](../media/edit-data.png)
 
-1. [データの編集] タブを閉じます。
+1. タブを閉じます。
