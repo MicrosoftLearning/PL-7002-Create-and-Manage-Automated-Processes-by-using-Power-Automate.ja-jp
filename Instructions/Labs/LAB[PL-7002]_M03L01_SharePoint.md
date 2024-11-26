@@ -109,25 +109,25 @@ lab:
 
     ![[SharePoint タスク] リストのスクリーンショット。](../media/tasks-sharepoint-list.png)
 
-1. **[+ 新規]** を選び、次のデータを入力して、**[保存]** を選びます。
+1. **[+ 新しい項目]** を選択し、次のデータを入力して、**[保存]** を選択します。
 
-   1. Title = `Contact Jon`
+   1. タイトル = `Contact Jon`
    1. Description = `Call or email`
    1. Owner Name = `MOD Administrator`
    1. Deadline = **Yesterday**
    1. Approval Status = **Declined**
 
-1. **[+ 新規]** を選び、次のデータを入力して、**[保存]** を選びます。
+1. **[+ 新しい項目]** を選択し、次のデータを入力して、**[保存]** を選択します。
 
-   1. Title = `Create Quote`
+   1. タイトル = `Create Quote`
    1. Description = `No discount`
    1. Owner Name = `MOD Administrator`
    1. Deadline = **Today**
    1. Approval Status = **Approved**
 
-1. **[+ 新規]** を選び、次のデータを入力して、**[保存]** を選びます。
+1. **[+ 新しい項目]** を選択し、次のデータを入力して、**[保存]** を選択します。
 
-   1. Title = `Visit Jim`
+   1. タイトル = `Visit Jim`
    1. Description = `First visit`
    1. Owner Name = `MOD Administrator`
    1. Deadline = **Tomorrow**
