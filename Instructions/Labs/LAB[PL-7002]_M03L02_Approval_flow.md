@@ -39,7 +39,7 @@ lab:
 
 1. **[フロー名]** に「`Task approval`」と入力します。
 
-1. 検索で「`SharePoint`」と入力します。
+1. [すべてのトリガーを検索する] に `SharePoint` と入力します。
 
 1. **[項目が作成されたとき]** を選びます。
 
@@ -119,7 +119,7 @@ lab:
 
 1. 検索で「`update item`」と入力します。
 
-1. **[SharePoint]** の下にある **[項目の更新]** を選びます。
+1. **[SharePoint]** の下にある **[項目の更新]** を選択します。
 
 1. **[項目の更新]** ステップ名を選び、「`Set task to approved`」と入力します。
 
@@ -143,7 +143,7 @@ lab:
 
 1. 検索で「`update item`」と入力します。
 
-1. **[SharePoint]** の下にある **[項目の更新]** を選びます。
+1. **[SharePoint]** の下にある **[項目の更新]** を選択します。
 
 1. **[項目 1 の更新]** ステップ名を選び、「`Set task to declined`」と入力します。
 
@@ -174,9 +174,9 @@ lab:
 
 1. SharePoint サイトに移動し、**[タスク]** リストを選びます。
 
-1. **[+ 新規]** を選び、次のデータを入力して、**[保存]** を選びます。
+1. **[+ 新しい項目]** を選択し、次のデータを入力して、**[保存]** を選択します。
 
-   1. Title = `Approval test`
+   1. タイトル = `Approval test`
    1. Description = `Test`
    1. Owner Name = `MOD Administrator`
    1. Deadline = **Today**
