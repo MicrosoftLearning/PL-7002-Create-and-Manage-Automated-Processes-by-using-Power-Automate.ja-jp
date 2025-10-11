@@ -31,6 +31,8 @@ lab:
 
 1. ブラウザー画面の左上にある **[アプリ起動ツール]** を選択し、**[SharePoint]** を選択します。
 
+    ![SharePoint を起動するアプリ起動ツールのスクリーンショット。](../media/app-launcher.png)
+
 1. **[SharePoint スタート ページへようこそ]** ポップアップ ダイアログが表示された場合は、**[X]** を選択し、ダイアログを閉じます。
 
 1. SharePoint で、**[+ サイトの作成]** を選びます。
@@ -100,7 +102,6 @@ lab:
 
 1. SharePoint サイトの URL の最初の部分をコピーします (例: `https://m365x99999999.sharepoint.com/sites/PowerAutomate/`)
 
-
 ## 演習 2 - データの SharePoint リストを追加する
 
 ### タスク 2.1 - データを追加する
@@ -134,4 +135,3 @@ lab:
    1. Approval Status = **New**
 
     ![[SharePoint タスク] データのスクリーンショット。](../media/tasks-data.png)
-
