@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 6: 予定フロー'
   module: 'Module 5: Power Automate’s deep integration across multiple data sources'
+  description: このラボでは、予定フローを作成します。
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 6 – 予定フロー

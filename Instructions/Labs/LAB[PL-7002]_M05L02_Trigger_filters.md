@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 7: トリガー フィルター'
   module: 'Module 5: Power Automate’s deep integration across multiple data sources'
+  description: このラボでは、更新トリガーをフィルター処理します。
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 7 – トリガー フィルター

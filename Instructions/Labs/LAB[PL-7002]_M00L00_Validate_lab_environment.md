@@ -2,6 +2,12 @@
 lab:
   title: 'ラボ 0:ラボ環境を検証する'
   module: 'Module 0: Course Introduction'
+  description: この演習では、Power Apps にアクセスできることを確認します。
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Apps
 ---
 
 # 実習ラボ 0 - ラボ環境を検証する

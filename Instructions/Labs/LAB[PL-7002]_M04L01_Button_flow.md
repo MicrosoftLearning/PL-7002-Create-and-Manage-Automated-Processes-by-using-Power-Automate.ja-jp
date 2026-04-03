@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 5:ボタン フロー'
   module: 'Module 4: Build flows to manage user information'
+  description: このラボでは、ボタン フローを作成します。
+  duration: 15 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 5 - ボタン フロー

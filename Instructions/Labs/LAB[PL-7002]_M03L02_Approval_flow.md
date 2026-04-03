@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 4:承認フロー'
   module: 'Module 3: Build approval flows with Power Automate'
+  description: このラボでは、承認フローを作成します。
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 4 - 承認フロー
