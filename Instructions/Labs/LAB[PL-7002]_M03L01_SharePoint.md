@@ -2,6 +2,10 @@
 lab:
   title: '課題 3:SharePoint'
   module: 'Module 3: Build approval flows with Power Automate'
+  description: このラボでは、SharePoint サイトとリストを作成します。
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 3 - SharePoint

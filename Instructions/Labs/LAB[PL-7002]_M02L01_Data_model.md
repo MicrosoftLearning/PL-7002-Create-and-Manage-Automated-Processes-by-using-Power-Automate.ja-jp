@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 2:データ モデル'
   module: 'Module 2: Get started with Microsoft Dataverse'
+  description: このラボでは、Dataverse のテーブルと列を作成します。
+  duration: 40 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 2 - データ モデル
